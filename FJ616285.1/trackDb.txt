@@ -67,3 +67,435 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
+
+track Exp1-WT-UL84-DFF-ChIP-24h-G1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-24h-UL84-virus-normalization1.bw
+longLabel DFF-ChIP Exp1 HFF WT UL84 24h G1
+shortLabel DFF-ChIP Exp1 HFF WT UL84 24h G1
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track Exp1-WT-IE2-DFF-ChIP-24h-G1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-24h-IE2-virus-normalization1.bw
+longLabel DFF-ChIP Exp1 HFF WT IE2 24h G1
+shortLabel DFF-ChIP Exp1 HFF WT IE2 24h G1
+negateValues off
+color 186,6,23
+altColor 186,6,23 
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+track Exp1-WT-TBP-DFF-ChIP-24h-G1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-24h-TBP-virus-normalization1.bw
+longLabel DFF-ChIP Exp1 HFF WT TBP 24h G1
+shortLabel DFF-ChIP Exp1 HFF WT TBP 24h G1
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############		
+track Exp1-WT-H3K4me3-DFF-ChIP-24h-G1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-24h-H3K4me3-virus-normalization1.bw
+longLabel DFF-ChIP Exp1 HFF WT H3K4me3 24h G1
+shortLabel DFF-ChIP Exp1 HFF WT H3K4me3 24h G1
+negateValues off
+color 238,142,0
+altColor 238,142,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track Exp1-WT-UL84-DFF-ChIP-72h-G1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-72h-UL84-virus-normalization1.bw
+longLabel DFF-ChIP Exp1 HFF WT UL84 72h G1
+shortLabel DFF-ChIP Exp1 HFF WT UL84 72h G1
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track Exp1-WT-IE2-DFF-ChIP-72h-G1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-72h-IE2-virus-normalization1.bw
+longLabel DFF-ChIP Exp1 HFF WT IE2 72h G1
+shortLabel DFF-ChIP Exp1 HFF WT IE2 72h G1
+negateValues off
+color 186,6,23
+altColor 186,6,23 
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+track Exp1-WT-TBP-DFF-ChIP-72h-G1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-72h-TBP-virus-normalization1.bw
+longLabel DFF-ChIP Exp1 HFF WT TBP 72h G1
+shortLabel DFF-ChIP Exp1 HFF WT TBP 72h G1
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############		
+track Exp1-WT-H3K4me3-DFF-ChIP-72h-G1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-72h-H3K4me3-virus-normalization1.bw
+longLabel DFF-ChIP Exp1 HFF WT H3K4me3 72h G1
+shortLabel DFF-ChIP Exp1 HFF WT H3K4me3 72h G1
+negateValues off
+color 238,142,0
+altColor 238,142,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+	
+track Exp1-WT-UL84-DFF-ChIP-72h-G2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-72h-UL84-virus-normalization2.bw
+longLabel DFF-ChIP Exp1 HFF WT UL84 72h G2
+shortLabel DFF-ChIP Exp1 HFF WT UL84 72h G2
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track Exp1-WT-IE2-DFF-ChIP-72h-G2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-72h-IE2-virus-normalization2.bw
+longLabel DFF-ChIP Exp1 HFF WT IE2 72h G2
+shortLabel DFF-ChIP Exp1 HFF WT IE2 72h G2
+negateValues off
+color 186,6,23
+altColor 186,6,23 
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+track Exp1-WT-TBP-DFF-ChIP-72h-G2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-72h-TBP-virus-normalization2.bw
+longLabel DFF-ChIP Exp1 HFF WT TBP 72h G2
+shortLabel DFF-ChIP Exp1 HFF WT TBP 72h G2
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############		
+track Exp1-WT-H3K4me3-DFF-ChIP-72h-G2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-72h-H3K4me3-virus-normalization2.bw
+longLabel DFF-ChIP Exp1 HFF WT H3K4me3 72h G2
+shortLabel DFF-ChIP Exp1 HFF WT H3K4me3 72h G2
+negateValues off
+color 238,142,0
+altColor 238,142,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+	
+track Exp1-TATAm-UL84-DFF-ChIP-72h-G2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/TATAm-72h-UL84-virus-normalization2.bw
+longLabel DFF-ChIP Exp1 HFF TATAm UL84 72h G2
+shortLabel DFF-ChIP Exp1 HFF TATAm UL84 72h G2
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track Exp1-TATAm-IE2-DFF-ChIP-72h-G2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/TATAm-72h-IE2-virus-normalization2.bw
+longLabel DFF-ChIP Exp1 HFF TATAm IE2 72h G2
+shortLabel DFF-ChIP Exp1 HFF TATAm IE2 72h G2
+negateValues off
+color 186,6,23
+altColor 186,6,23 
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+track Exp1-TATAm-TBP-DFF-ChIP-72h-G2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/TATAm-72h-TBP-virus-normalization2.bw
+longLabel DFF-ChIP Exp1 HFF TATAm TBP 72h G2
+shortLabel DFF-ChIP Exp1 HFF TATAm TBP 72h G2
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############		
+track Exp1-TATAm-H3K4me3-DFF-ChIP-72h-G2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/TATAm-72h-H3K4me3-virus-normalization2.bw
+longLabel DFF-ChIP Exp1 HFF TATAm H3K4me3 72h G2
+shortLabel DFF-ChIP Exp1 HFF TATAm H3K4me3 72h G2
+negateValues off
+color 238,142,0
+altColor 238,142,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track Exp1-TATAm-UL84-DFF-ChIP-24h
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/TATAm-24h-UL84-virus.bw
+longLabel DFF-ChIP Exp1 HFF TATAm UL84 24h 
+shortLabel DFF-ChIP Exp1 HFF TATAm UL84 24h 
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track Exp1-TATAm-IE2-DFF-ChIP-24h
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/TATAm-24h-IE2-virus.bw
+longLabel DFF-ChIP Exp1 HFF TATAm IE2 24h
+shortLabel DFF-ChIP Exp1 HFF TATAm IE2 24h
+negateValues off
+color 186,6,23
+altColor 186,6,23 
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+track Exp1-TATAm-TBP-DFF-ChIP-24h
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/TATAm-24h-TBP-virus.bw
+longLabel DFF-ChIP Exp1 HFF TATAm TBP 24h
+shortLabel DFF-ChIP Exp1 HFF TATAm TBP 24h
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############		
+track Exp1-TATAm-H3K4me3-DFF-ChIP-24h
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/TATAm-24h-H3K4me3-virus.bw
+longLabel DFF-ChIP Exp1 HFF TATAm H3K4me3 24h 
+shortLabel DFF-ChIP Exp1 HFF TATAm H3K4me3 24h
+negateValues off
+color 238,142,0
+altColor 238,142,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+	
+track Exp1-WT-UL84-DFF-ChIP-72h-Fragments-Centers
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-72h-UL84-FC-virus-normalization1.bw
+longLabel DFF-ChIP Exp1 HFF WT UL84 72h Fragments Centers
+shortLabel DFF-ChIP Exp1 HFF WT UL84 72h Fragments Centers
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track Exp1-WT-IE2-DFF-ChIP-72h-Fragments-Centers
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-72h-IE2-FC-virus-normalization1.bw
+longLabel DFF-ChIP Exp1 HFF WT IE2 72h Fragments Centers
+shortLabel DFF-ChIP Exp1 HFF WT IE2 72h Fragments Centers
+negateValues off
+color 186,6,23
+altColor 186,6,23 
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+track Exp1-WT-TBP-DFF-ChIP-72h-Fragments-Centers
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/WT-72h-TBP-FC-virus-normalization1.bw
+longLabel DFF-ChIP Exp1 HFF WT TBP 72h Fragments Centers
+shortLabel DFF-ChIP Exp1 HFF WT TBP 72h Fragments Centers
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+#############			
+	
+track Exp2-WT-UL84-DFF-ChIP-96h-Fragments-Centers
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/D-NT2-WT-UL84-FC_virus.bw
+longLabel DFF-ChIP Exp2 D-NT2 WT UL84 96h Fragments Centers
+shortLabel DFF-ChIP Exp2 D-NT2 WT UL84 96h Fragments Centers
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track Exp2-WT-IE2-DFF-ChIP-96h-Fragments-Centers
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/D-NT2-WT-IE2-FC_virus.bw
+longLabel DFF-ChIP Exp2 D-NT2 WT IE2 96h Fragments Centers
+shortLabel DFF-ChIP Exp2 D-NT2 WT IE2 96h Fragments Centers
+negateValues off
+color 186,6,23
+altColor 186,6,23 
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+track Exp2-WT-TBP-DFF-ChIP-96h-Fragments-Centers
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/D-NT2-WT-TBP-FC_virus.bw
+longLabel DFF-ChIP Exp2 D-NT2 WT TBP 96h Fragments Centers
+shortLabel DFF-ChIP Exp2 D-NT2 WT TBP 96h Fragments Centers
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+#############		
+
+track Exp3-WT-IE2-DFF-ChIP-96h
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/20241018-D-NT2-WT-IE2-virus.bw
+longLabel DFF-ChIP Exp3 D-NT2 WT IE2 96h 
+shortLabel DFF-ChIP Exp3 D-NT2 WT IE2 96h
+negateValues off
+color 186,6,23
+altColor 186,6,23 
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+#############		
+
+track Exp3-TATAm-IE2-DFF-ChIP-96h
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/20241018-D-NT2-TATAm-IE2-virus.bw
+longLabel DFF-ChIP Exp3 D-NT2 TATAm IE2 96h 
+shortLabel DFF-ChIP Exp3 D-NT2 TATAm IE2 96h 
+negateValues off
+color 186,6,23
+altColor 186,6,23 
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16	 
+#############	
+track Exp3-WT-TBP-DFF-ChIP-96h
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/20241018-D-NT2-WT-TBP-virus.bw
+longLabel DFF-ChIP Exp3 D-NT2 WT TBP 96h 
+shortLabel DFF-ChIP Exp3 D-NT2 WT TBP 96h
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+#############		
+	
+track Exp3-TATAm-TBP-DFF-ChIP-96h
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/DFF-ChIP/20241018-D-NT2-TATAm-TBP-virus.bw
+longLabel DFF-ChIP Exp3 D-NT2 TATAm TBP 96h 
+shortLabel DFF-ChIP Exp3 D-NT2 TATAm TBP 96h 
+negateValues off
+color 186,6,23
+altColor 186,6,23 
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16	 
+#############
+
