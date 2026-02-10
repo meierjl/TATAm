@@ -42,7 +42,7 @@ track HFF-WT-Flavo-5’_FW
 parent WT-Flavo-5’
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/ GSE113394-HFF-WT-96h-Flavo-PRO-Seq-5Prime-virsus-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/GSE113394-HFF-WT-96h-Flavo-PRO-Seq-5Prime-virsus-FW.bw
 longLabel HFF WT Flavo 96h 5 Prime
 shortLabel HFF WT Flavo 96h 5 Prime
 negateValues off
@@ -56,7 +56,7 @@ track HFF-WT-Flavo-5’_RV
 parent WT-Flavo-5’
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/ GSE113394-HFF-WT-96h-Flavo-PRO-Seq-5Prime-virsus-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/GSE113394-HFF-WT-96h-Flavo-PRO-Seq-5Prime-virsus-RV.bw
 longLabel HFF WT Flavo 96h 5 Prime
 shortLabel HFF WT Flavo 96h 5 Prime
 negateValues on
