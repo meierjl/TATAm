@@ -9,6 +9,27 @@ visibility pack
 
 #############
 
+track MIE
+type bigBed 12 
+group map
+priority 3
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/MIE.bb
+longLabel MIE
+shortLabel MIE
+visibility pack
+##########
+
+track nucleosome
+type bigBed 12 
+group map
+priority 3
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/nucleosome.bb
+longLabel Nucleosome
+shortLabel Nucleosome
+visibility pack
+
+##########
+
 track HFF-WT-Flavo-5’
 compositeTrack on
 type bigWig 0 1000
