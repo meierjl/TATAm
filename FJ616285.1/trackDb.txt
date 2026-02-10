@@ -800,5 +800,304 @@ autoScale on
 maxHeightPixels 128:128:16
 	
 #############
+track 24h_WT_No_Flavo_3
+compositeTrack on
+type bigWig 0 1000
+priority 5
+visibility full
+shortLabel Exp1 24h HFF WT No Flavo 3Prime
+longLabel 24h WT No Flavo 3Prime
+	 
+track 24h_WT_No_Flavo_3_FW
+parent 24h_WT_No_Flavo_3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-24h-No-Flavo-virus-3prime-FW.bw
+longLabel Exp1 24h WT HFF No Flavo 3Prime
+shortLabel Exp1 24h WT HFF No Flavo 3Prime
+negateValues off
+color 199,0,246  
+altColor 199,0,246  
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 24h_WT_No_Flavo_3_RV
+parent 24h_WT_No_Flavo_3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-24h-No-Flavo-virus-3prime-RV.bw
+longLabel Exp1 24h WT HFF No Flavo 3Prime
+shortLabel Exp1 24h WT HFF No Flavo 3Prime
+negateValues on
+color 199,0,246  
+altColor 199,0,246  
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	
+#############
+
+track 24h_TATAm_No_Flavo_3
+compositeTrack on
+type bigWig 0 1000
+priority 5
+visibility full
+shortLabel Exp1 24h HFF TATAm No Flavo 3Prime
+longLabel 24h TATAm No Flavo 3Prime
+	 
+track 24h_TATAm_No_Flavo_3_FW
+parent 24h_TATAm_No_Flavo_3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-24h-No-Flavo-virus-3prime-FW.bw
+longLabel Exp1 24h TATAm HFF No Flavo 3Prime
+shortLabel Exp1 24h TATAm HFF No Flavo 3Prime
+negateValues off
+color 199,0,246  
+altColor 199,0,246  
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 24h_TATAm_No_Flavo_3_RV
+parent 24h_TATAm_No_Flavo_3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-24h-No-Flavo-virus-3prime-RV.bw
+longLabel Exp1 24h TATAm HFF No Flavo 3Prime
+shortLabel Exp1 24h TATAm HFF No Flavo 3Prime
+negateValues on
+color 199,0,246  
+altColor 199,0,246  
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	
+#############
+track 72h_WT_No_Flavo_3
+compositeTrack on
+type bigWig 0 1000
+priority 5
+visibility full
+shortLabel Exp1 72h HFF WT No Flavo 3Prime
+longLabel 72h WT No Flavo 3Prime
+	 
+track 72h_WT_No_Flavo_3_FW
+parent 72h_WT_No_Flavo_3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-No-Flavo-virus-3prime-FW.bw
+longLabel Exp1 72h WT HFF No Flavo 3Prime
+shortLabel Exp1 72h WT HFF No Flavo 3Prime
+negateValues off
+color 199,0,246  
+altColor 199,0,246  
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h_WT_No_Flavo_3_RV
+parent 72h_WT_No_Flavo_3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-No-Flavo-virus-3prime-RV.bw
+longLabel Exp1 72h WT HFF No Flavo 3Prime
+shortLabel Exp1 72h WT HFF No Flavo 3Prime
+negateValues on
+color 199,0,246  
+altColor 199,0,246  
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	
+#############
+
+track 72h_TATAm_No_Flavo_3
+compositeTrack on
+type bigWig 0 1000
+priority 5
+visibility full
+shortLabel Exp1 24h HFF TATAm No Flavo 3Prime
+longLabel 24h TATAm No Flavo 3Prime
+	 
+track 72h_TATAm_No_Flavo_3_FW
+parent 72h_TATAm_No_Flavo_3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-No-Flavo-virus-3prime-FW.bw
+longLabel Exp1 72h TATAm HFF No Flavo 3Prime
+shortLabel Exp1 72h TATAm HFF No Flavo 3Prime
+negateValues off
+color 199,0,246  
+altColor 199,0,246  
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h_TATAm_No_Flavo_3_RV
+parent 72h_TATAm_No_Flavo_3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-No-Flavo-virus-3prime-RV.bw
+longLabel Exp1 72h TATAm HFF No Flavo 3Prime
+shortLabel Exp1 72h TATAm HFF No Flavo 3Prime
+negateValues on
+color 199,0,246  
+altColor 199,0,246  
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	
+#############
+track 96h_WT_No_Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 6
+visibility full
+shortLabel Exp1 96h D-NT2 WT No Flavo
+longLabel 96h WT No Flavo
+	 
+track 96h_WT_No_Flavo_FW
+parent 96h_WT_No_Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/D-NT2-PRO-Seq--WT-No-Flavo-dedup-FW-FJ616285.1.bw
+longLabel Exp1 96h WT D-NT2 No Flavo
+shortLabel Exp1 96h WT D-NT2 No Flavo
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 96h_WT_No_Flavo_RV
+parent 96h_WT_No_Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/D-NT2-PRO-Seq-WT-No-Flavo-dedup-RV-FJ616285.1.bw
+longLabel Exp1 96h WT D-NT2 No Flavo
+shortLabel Exp1 96h WT D-NT2 No Flavo
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	
+#############
+track 96h_TATAm_No_Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 6
+visibility full
+shortLabel Exp1 96h D-NT2 TATAm No Flavo
+longLabel 96h TATAm No Flavo
+	 
+track 96h_TATAm_No_Flavo_FW
+parent 96h_TATAm_No_Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/D-NT2-PRO-Seq-TATAm-No-Flavo-dedup-FW-FJ616285.1.bw
+longLabel Exp1 96h TATAm D-NT2 No Flavo
+shortLabel Exp1 96h TATAm D-NT2 No Flavo
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 96h_TATAm_No_Flavo_RV
+parent 96h_TATAm_No_Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/D-NT2-PRO-Seq-TATAm-No-Flavo-dedup-RV-FJ616285.1.bw
+longLabel Exp1 96h TATAm D-NT2 No Flavo
+shortLabel Exp1 96h TATAm D-NT2 No Flavo
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	
+#############
+track 96h_WT_No_Flavo_3
+compositeTrack on
+type bigWig 0 1000
+priority 6
+visibility full
+shortLabel Exp2 96h D-NT2 WT No Flavo 3Prime
+longLabel 96h WT No Flavo 3Prime
+	 
+track 96h_WT_No_Flavo_3_FW
+parent 96h_WT_No_Flavo_3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2WTNoFlavovirus-3prime-FW.bw
+longLabel Exp2 96h WT D-NT2 No Flavo 3Prime
+shortLabel Exp2 96h WT D-NT2 No Flavo 3Prime
+negateValues off
+color 199,0,246  
+altColor 199,0,246  
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 96h_WT_No_Flavo_3_RV
+parent 96h_WT_No_Flavo_3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2WTNoFlavovirus-3prime-RV.bw
+longLabel Exp2 96h WT D-NT2 No Flavo 3Prime
+shortLabel Exp2 96h WT D-NT2 No Flavo 3Prime
+negateValues on
+color 199,0,246  
+altColor 199,0,246  
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	
+#############
+
+track 96h_TATAm_No_Flavo_3
+compositeTrack on
+type bigWig 0 1000
+priority 6
+visibility full
+shortLabel Exp2 96h D-NT2 TATAm No Flavo 3Prime
+longLabel 96h TATAm No Flavo 3Prime
+	 
+track 96h_TATAm_No_Flavo_3_FW
+parent 96h_TATAm_No_Flavo_3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2TATAmNoFlavovirus-3prime-FW.bw
+longLabel Exp2 96h TATAm D-NT2 No Flavo 3Prime
+shortLabel Exp2 96h TATAm D-NT2 No Flavo 3Prime
+negateValues off
+color 199,0,246  
+altColor 199,0,246  
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 96h_TATAm_No_Flavo_3_RV
+parent 96h_TATAm_No_Flavo_3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2TATAmNoFlavovirus-3prime-RV.bw
+longLabel Exp2 96h TATAm D-NT2 No Flavo 3Prime
+shortLabel Exp2 96h TATAm D-NT2 No Flavo 3Prime
+negateValues on
+color 199,0,246  
+altColor 199,0,246  
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	
+#############
 
 
