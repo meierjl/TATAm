@@ -494,8 +494,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/mas
 longLabel DFF-ChIP Exp3 D-NT2 TATAm TBP 96h 
 shortLabel DFF-ChIP Exp3 D-NT2 TATAm TBP 96h 
 negateValues off
-color 186,6,23
-altColor 186,6,23 
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16	 
