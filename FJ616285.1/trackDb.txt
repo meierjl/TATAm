@@ -39,8 +39,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/mas
 longLabel HFF WT Flavo 96h 5 Prime
 shortLabel HFF WT Flavo 96h 5 Prime
 negateValues on
-color 34,34,255
-altColor 34,34,255
+color 0,0,0
+altColor 0,0,0
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
