@@ -511,7 +511,7 @@ track HFF_WT_Flavo_72h_5_FW
 parent HFF_WT_Flavo_72h_5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/ WT-72h-Flavo-correctd-virus-5Prime-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-Flavo-correctd-virus-5Prime-FW.bw
 longLabel 72h HFF WT Flavo 5 Prime
 shortLabel 72h HFF WT Flavo 5 Prime
 negateValues off
@@ -525,7 +525,7 @@ track HFF_WT_Flavo_72h_5_RV
 parent HFF_WT_Flavo_72h_5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/ WT-72h-Flavo-correctd-virus-5Prime-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-Flavo-correctd-virus-5Prime-RV.bw
 longLabel 72h HFF WT Flavo 5 Prime
 shortLabel 72h HFF WT Flavo 5 Prime 
 negateValues on
@@ -549,7 +549,7 @@ track HFF_TATAm_Flavo_72h_5_FW
 parent HFF_TATAm_Flavo_72h_5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/ TATAm-72h-Flavo-correctd-virus-5Prime-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-Flavo-correctd-virus-5Prime-FW.bw
 longLabel 72h HFF TATAm Flavo 5 Prime
 shortLabel 72h HFF TATAm Flavo 5 Prime
 negateValues off
@@ -563,7 +563,7 @@ track HFF_TATAm_Flavo_72h_5_RV
 parent HFF_TATAm_Flavo_72h_5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/ TATAm-72h-Flavo-correctd-virus-5Prime-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-Flavo-correctd-virus-5Prime-RV.bw
 longLabel 72h HFF TATAm Flavo 5 Prime
 shortLabel 72h HFF TATAm Flavo 5 Prime 
 negateValues on
