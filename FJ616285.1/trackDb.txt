@@ -30,16 +30,16 @@ visibility pack
 
 ##########
 
-track HFF-WT-Flavo-5’
+track HFF_WT_Flavo_5prime
 compositeTrack on
 type bigWig 0 1000
 priority 1
 visibility full
-shortLabel HFF WT Flavo 5 Prime
-longLabel WT Flavo 5’
+shortLabel HFF WT 5’
+longLabel HFF WT Flavo 5 Prime
 	 
-track HFF-WT-Flavo-5’_FW
-parent WT-Flavo-5’
+track HFF_WT_Flavo_5prime_FW
+parent HFF_WT_Flavo_5prime
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/GSE113394-HFF-WT-96h-Flavo-PRO-Seq-5Prime-virsus-FW.bw
@@ -52,8 +52,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track HFF-WT-Flavo-5’_RV
-parent WT-Flavo-5’
+track HFF_WT_Flavo_5prime_RV
+parent HFF_WT_Flavo_5prime
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/GSE113394-HFF-WT-96h-Flavo-PRO-Seq-5Prime-virsus-RV.bw
