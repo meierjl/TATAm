@@ -470,7 +470,9 @@ altColor 186,6,23
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16	 
+
 #############	
+
 track Exp3-WT-TBP-DFF-ChIP-96h
 type bigWig 0 1000
 visibility full
