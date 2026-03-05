@@ -13,7 +13,7 @@ track MIE
 type bigBed 12 
 group map
 priority 3
-bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/MIE.bb
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/MIE-UL124.bb
 longLabel MIE
 shortLabel MIE
 visibility pack
