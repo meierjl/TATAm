@@ -513,7 +513,7 @@ track HFF_WT_Flavo_72h_5_FW
 parent HFF_WT_Flavo_72h_5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-Flavo-correctd-virus-5Prime-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-Flavo-Totalviralreadscorrectd-virus-5Prime-FW.bw
 longLabel 72h HFF WT Flavo 5 Prime
 shortLabel 72h HFF WT Flavo 5 Prime
 negateValues off
@@ -527,7 +527,7 @@ track HFF_WT_Flavo_72h_5_RV
 parent HFF_WT_Flavo_72h_5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-Flavo-correctd-virus-5Prime-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-Flavo-Totalviralreadscorrectd-virus-5Prime-RV.bw
 longLabel 72h HFF WT Flavo 5 Prime
 shortLabel 72h HFF WT Flavo 5 Prime 
 negateValues on
@@ -551,7 +551,7 @@ track HFF_TATAm_Flavo_72h_5_FW
 parent HFF_TATAm_Flavo_72h_5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-Flavo-correctd-virus-5Prime-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-Flavo-Totalviralreadscorrectd-virus-5Prime-FW.bw
 longLabel 72h HFF TATAm Flavo 5 Prime
 shortLabel 72h HFF TATAm Flavo 5 Prime
 negateValues off
@@ -565,7 +565,7 @@ track HFF_TATAm_Flavo_72h_5_RV
 parent HFF_TATAm_Flavo_72h_5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-Flavo-correctd-virus-5Prime-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-Flavo-Totalviralreadscorrectd-virus-5Prime-RV.bw
 longLabel 72h HFF TATAm Flavo 5 Prime
 shortLabel 72h HFF TATAm Flavo 5 Prime 
 negateValues on
@@ -588,7 +588,7 @@ track 24h_WT_No_Flavo_FW
 parent 24h_WT_No_Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-24h-No-Flavo-virus-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-24h-No-Flavo-ViralReadsCorrection-virus-FW.bw
 longLabel Exp1 24h WT HFF No Flavo
 shortLabel Exp1 24h WT HFF No Flavo
 negateValues off
@@ -602,7 +602,7 @@ track 24h_WT_No_Flavo_RV
 parent 24h_WT_No_Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-24h-No-Flavo-virus-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-24h-No-Flavo-ViralReadsCorrection-virus-RV.bw
 longLabel Exp1 24h WT HFF No Flavo
 shortLabel Exp1 24h WT HFF No Flavo
 negateValues on
@@ -626,7 +626,7 @@ track 24h_TATAm_No_Flavo_FW
 parent 24h_TATAm_No_Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-24h-No-Flavo-virus-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-24h-No-Flavo-ViralReadsCorrection-virus-FW.bw
 longLabel Exp1 24h TATAm HFF No Flavo
 shortLabel Exp1 24h TATAm HFF No Flavo
 negateValues off
@@ -640,7 +640,7 @@ track 24h_TATAm_No_Flavo_RV
 parent 24h_TATAm_No_Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-24h-No-Flavo-virus-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-24h-No-Flavo-ViralReadsCorrection-virus-RV.bw
 longLabel Exp1 24h TATAm HFF No Flavo
 shortLabel Exp1 24h TATAm HFF No Flavo
 negateValues on
@@ -663,7 +663,7 @@ track 72h_WT_No_Flavo_FW
 parent 72h_WT_No_Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-No-Flavo-virus-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-No-Flavo-ViralReadsCorrection-virus-FW.bw
 longLabel Exp1 72h WT HFF No Flavo
 shortLabel Exp1 72h WT HFF No Flavo
 negateValues off
@@ -677,7 +677,7 @@ track 72h_WT_No_Flavo_RV
 parent 72h_WT_No_Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-No-Flavo-virus-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-No-Flavo-ViralReadsCorrection-virus-RV.bw
 longLabel Exp1 72h WT HFF No Flavo
 shortLabel Exp1 72h WT HFF No Flavo
 negateValues on
@@ -701,7 +701,7 @@ track 72h_TATAm_No_Flavo_FW
 parent 72h_TATAm_No_Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-No-Flavo-virus-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-No-Flavo-ViralReadsCorrection-virus-FW.bw
 longLabel Exp1 72h TATAm HFF No Flavo
 shortLabel Exp1 72h TATAm HFF No Flavo
 negateValues off
@@ -715,7 +715,7 @@ track 72h_TATAm_No_Flavo_RV
 parent 72h_TATAm_No_Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-No-Flavo-virus-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-No-Flavo-ViralReadsCorrection-virus-RV.bw
 longLabel Exp1 72h TATAm HFF No Flavo
 shortLabel Exp1 72h TATAm HFF No Flavo
 negateValues on
@@ -727,81 +727,6 @@ maxHeightPixels 128:128:16
 	
 #############
 
-track 72h_WT_Flavo
-compositeTrack on
-type bigWig 0 1000
-priority 4
-visibility full
-shortLabel Exp1 72h HFF WT Flavo
-longLabel 72h WT Flavo
-	 
-track 72h_WT_Flavo_FW
-parent 72h_WT_Flavo
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-Flavo-corrected-FW-FJ616285.1.bw
-longLabel Exp1 72h WT HFF Flavo
-shortLabel Exp1 72h WT HFF Flavo
-negateValues off
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-	 
-track 72h_WT_Flavo_RV
-parent 72h_WT_Flavo
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-Flavo-corrected-RV-FJ616285.1.bw
-longLabel Exp1 72h WT HFF Flavo
-shortLabel Exp1 72h WT HFF Flavo
-negateValues on
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-	
-#############
-
-track 72h_TATAm_Flavo
-compositeTrack on
-type bigWig 0 1000
-priority 4
-visibility full
-shortLabel Exp1 72h HFF TATAm Flavo
-longLabel 72h TATAm Flavo
-	 
-track 72h_TATAm_Flavo_FW
-parent 72h_TATAm_Flavo
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-Flavo-corrected-FW-FJ616285.1.bw
-longLabel Exp1 72h TATAm HFF Flavo
-shortLabel Exp1 72h TATAm HFF Flavo
-negateValues off
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-	 
-track 72h_TATAm_Flavo_RV
-parent 72h_TATAm_Flavo
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-Flavo-corrected-RV-FJ616285.1.bw
-longLabel Exp1 72h TATAm HFF Flavo
-shortLabel Exp1 72h TATAm HFF Flavo
-negateValues on
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-	
-#############
 track 24h_WT_No_Flavo_3
 compositeTrack on
 type bigWig 0 1000
@@ -814,7 +739,7 @@ track 24h_WT_No_Flavo_3_FW
 parent 24h_WT_No_Flavo_3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-24h-No-Flavo-virus-3prime-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-24h-No-Flavo-ViralReadsCorrection-virus-3prime-FW.bw
 longLabel Exp1 24h WT HFF No Flavo 3Prime
 shortLabel Exp1 24h WT HFF No Flavo 3Prime
 negateValues off
@@ -828,7 +753,7 @@ track 24h_WT_No_Flavo_3_RV
 parent 24h_WT_No_Flavo_3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-24h-No-Flavo-virus-3prime-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-24h-No-Flavo-ViralReadsCorrection-virus-3prime-RV.bw
 longLabel Exp1 24h WT HFF No Flavo 3Prime
 shortLabel Exp1 24h WT HFF No Flavo 3Prime
 negateValues on
@@ -852,7 +777,7 @@ track 24h_TATAm_No_Flavo_3_FW
 parent 24h_TATAm_No_Flavo_3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-24h-No-Flavo-virus-3prime-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-24h-No-Flavo-ViralReadsCorrection-virus-3prime-FW.bw
 longLabel Exp1 24h TATAm HFF No Flavo 3Prime
 shortLabel Exp1 24h TATAm HFF No Flavo 3Prime
 negateValues off
@@ -866,7 +791,7 @@ track 24h_TATAm_No_Flavo_3_RV
 parent 24h_TATAm_No_Flavo_3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-24h-No-Flavo-virus-3prime-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-24h-No-Flavo-ViralReadsCorrection-virus-3prime-RV.bw
 longLabel Exp1 24h TATAm HFF No Flavo 3Prime
 shortLabel Exp1 24h TATAm HFF No Flavo 3Prime
 negateValues on
@@ -889,7 +814,7 @@ track 72h_WT_No_Flavo_3_FW
 parent 72h_WT_No_Flavo_3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-No-Flavo-virus-3prime-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-No-Flavo-ViralReadsCorrection-virus-3prime-FW.bw
 longLabel Exp1 72h WT HFF No Flavo 3Prime
 shortLabel Exp1 72h WT HFF No Flavo 3Prime
 negateValues off
@@ -903,7 +828,7 @@ track 72h_WT_No_Flavo_3_RV
 parent 72h_WT_No_Flavo_3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-No-Flavo-virus-3prime-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/WT-72h-No-Flavo-ViralReadsCorrection-virus-3prime-RV.bw
 longLabel Exp1 72h WT HFF No Flavo 3Prime
 shortLabel Exp1 72h WT HFF No Flavo 3Prime
 negateValues on
@@ -927,7 +852,7 @@ track 72h_TATAm_No_Flavo_3_FW
 parent 72h_TATAm_No_Flavo_3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-No-Flavo-virus-3prime-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-No-Flavo-ViralReadsCorrection-virus-3prime-FW.bw
 longLabel Exp1 72h TATAm HFF No Flavo 3Prime
 shortLabel Exp1 72h TATAm HFF No Flavo 3Prime
 negateValues off
@@ -941,7 +866,7 @@ track 72h_TATAm_No_Flavo_3_RV
 parent 72h_TATAm_No_Flavo_3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-No-Flavo-virus-3prime-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/TATAm-72h-No-Flavo-ViralReadsCorrection-virus-3prime-RV.bw
 longLabel Exp1 72h TATAm HFF No Flavo 3Prime
 shortLabel Exp1 72h TATAm HFF No Flavo 3Prime
 negateValues on
@@ -964,7 +889,7 @@ track 96h_WT_No_Flavo_FW
 parent 96h_WT_No_Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/D-NT2-PRO-Seq--WT-No-Flavo-dedup-FW-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2-WT-No-Flavo-virus-viraltotalreadscorrected-FW.bw
 longLabel Exp1 96h WT D-NT2 No Flavo
 shortLabel Exp1 96h WT D-NT2 No Flavo
 negateValues off
@@ -978,7 +903,7 @@ track 96h_WT_No_Flavo_RV
 parent 96h_WT_No_Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/D-NT2-PRO-Seq-WT-No-Flavo-dedup-RV-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2-WT-No-Flavo-virus-viraltotalreadscorrected-RV.bw
 longLabel Exp1 96h WT D-NT2 No Flavo
 shortLabel Exp1 96h WT D-NT2 No Flavo
 negateValues on
@@ -1001,7 +926,7 @@ track 96h_TATAm_No_Flavo_FW
 parent 96h_TATAm_No_Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/D-NT2-PRO-Seq-TATAm-No-Flavo-dedup-FW-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2-TATAm-No-Flavo-virus-viraltotalreadscorrected-FW.bw
 longLabel Exp1 96h TATAm D-NT2 No Flavo
 shortLabel Exp1 96h TATAm D-NT2 No Flavo
 negateValues off
@@ -1015,7 +940,7 @@ track 96h_TATAm_No_Flavo_RV
 parent 96h_TATAm_No_Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/D-NT2-PRO-Seq-TATAm-No-Flavo-dedup-RV-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2-TATAm-No-Flavo-virus-viraltotalreadscorrected-RV.bw
 longLabel Exp1 96h TATAm D-NT2 No Flavo
 shortLabel Exp1 96h TATAm D-NT2 No Flavo
 negateValues on
@@ -1038,7 +963,7 @@ track 96h_WT_No_Flavo_3_FW
 parent 96h_WT_No_Flavo_3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2WTNoFlavovirus-3prime-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2WTNoFlavovirus-TotalReadsCorrection-3prime-FW.bw
 longLabel Exp2 96h WT D-NT2 No Flavo 3Prime
 shortLabel Exp2 96h WT D-NT2 No Flavo 3Prime
 negateValues off
@@ -1052,7 +977,7 @@ track 96h_WT_No_Flavo_3_RV
 parent 96h_WT_No_Flavo_3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2WTNoFlavovirus-3prime-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2WTNoFlavovirus-TotalReadsCorrection-3prime-RV.bw
 longLabel Exp2 96h WT D-NT2 No Flavo 3Prime
 shortLabel Exp2 96h WT D-NT2 No Flavo 3Prime
 negateValues on
@@ -1076,7 +1001,7 @@ track 96h_TATAm_No_Flavo_3_FW
 parent 96h_TATAm_No_Flavo_3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2TATAmNoFlavovirus-3prime-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2TATAmNoFlavovirus-TotalReadsCorrection-3prime-FW.bw
 longLabel Exp2 96h TATAm D-NT2 No Flavo 3Prime
 shortLabel Exp2 96h TATAm D-NT2 No Flavo 3Prime
 negateValues off
@@ -1090,7 +1015,7 @@ track 96h_TATAm_No_Flavo_3_RV
 parent 96h_TATAm_No_Flavo_3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2TATAmNoFlavovirus-3prime-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TATAm/master/FJ616285.1/PRO-Seq/20241218-DNT2TATAmNoFlavovirus-TotalReadsCorrection-3prime-RV.bw
 longLabel Exp2 96h TATAm D-NT2 No Flavo 3Prime
 shortLabel Exp2 96h TATAm D-NT2 No Flavo 3Prime
 negateValues on
