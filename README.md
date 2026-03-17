@@ -23,5 +23,4 @@ Please visit the following site for documentation: https://genome.ucsc.edu/golde
 
 This track hub was compiled by Ming Li and Qiaolin Hu in the lab of Jeff Meier at the University of Iowa.
 
-This track hub contains DFF-ChIP Seq and PRO-Seq first described in the following manuscript:
-
+This track hub contains DFF-ChIP Seq and PRO-Seq first described in the following manuscript: A multimolecular pUL84-IE2-TBP-nucleosome complex at the human cytomegalovirus major immediate-early promoter blocks antisense transcription
