@@ -1,7 +1,7 @@
 genome FJ616285.1
 trackDb FJ616285.1/trackDb.txt
 groups FJ616285.1/groups.txt
-description 2013-05-09 Human herpesvirus 5 strain Towne
+description HCMV Towne (FJ616285.1) – MIEP-associated transcription barrier complex datasets
 twoBitPath FJ616285.1/FJ616285.1.2bit
 organism Human cytomegalovirus
 defaultPos FJ616285.1:1-235147
